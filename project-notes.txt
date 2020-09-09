@@ -1,0 +1,7 @@
+Ecommerce Tutorial using MERN Stack
+
+1. Create a folder: restaurant tutorial
+
+2. Open in VS Code and run: npm init. Make server.js as entry point
+
+3. Create gitignore file in root, and add node_modules
