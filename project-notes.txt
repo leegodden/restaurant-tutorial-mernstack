@@ -1,7 +1,14 @@
 Ecommerce Tutorial using MERN Stack
+---------------------------------------------- 
+[1] Initialize npm and git 
 
 1. Create a folder: restaurant tutorial
-
 2. Open in VS Code and run: npm init. Make server.js as entry point
-
 3. Create gitignore file in root, and add node_modules
+4. Create Github repository with description
+5. Run git init in vs code to initialise repository. (use ls -la to check)
+6. Run git status to show files to be added
+7. Run git add . to  add listed files in red
+8. Run git commit -m "first commit"
+9. Run  git remote add origin https://github.com/rifkijones/restaurant-tutorial-mernstack.git
+10.Run git push -u origin master
